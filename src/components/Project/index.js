@@ -4,7 +4,7 @@ import passGenApp from "../../assets/images/passGenApp.gif"
 
 function Project(props) {
   const currentProject = {
-    title: "password generator",
+    title: "Password Generator",
     deployed: "https://erin-michon.github.io/password-generator/",
     github: "https://github.com/erin-michon/password-generator"
   }

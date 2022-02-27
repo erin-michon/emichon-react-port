@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
+import Container from 'react-bootstrap/Container';
 
 function Navigation() {
 
@@ -15,7 +16,14 @@ function Navigation() {
 
   return (
     <header>
-      <h2>Erin C. Michon</h2>
+      <Container fluid>
+        <Row>
+          <Col></Col>
+          <Col></Col>
+        </Row>
+
+      </Container>
+      <h2>Erin Michon</h2>
       <nav>
         <ul className="flex-row">
         {categories.map((category) => (

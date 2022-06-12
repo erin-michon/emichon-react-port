@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/emichon-react-port/static/css/main.00fa11f9.css",
+    "main.js": "/emichon-react-port/static/js/main.cea4fe61.js",
+    "static/js/787.cabe94fe.chunk.js": "/emichon-react-port/static/js/787.cabe94fe.chunk.js",
+    "static/media/5.gif": "/emichon-react-port/static/media/5.6386928bf6f7b7b98748.gif",
+    "static/media/2.gif": "/emichon-react-port/static/media/2.ec3b67a3b8d1760069fc.gif",
+    "static/media/7.gif": "/emichon-react-port/static/media/7.a2344b91d21fec8f8537.gif",
+    "static/media/4.gif": "/emichon-react-port/static/media/4.5f4f2126d4d851915474.gif",
+    "static/media/1.gif": "/emichon-react-port/static/media/1.09225c46f5968435ba7c.gif",
+    "static/media/3.gif": "/emichon-react-port/static/media/3.c1b254f656dffd58d987.gif",
+    "static/media/6.gif": "/emichon-react-port/static/media/6.00643411063aaffa6f6c.gif",
+    "static/media/emichonpic.jpg": "/emichon-react-port/static/media/emichonpic.63995561b969736ea992.jpg",
+    "index.html": "/emichon-react-port/index.html",
+    "main.00fa11f9.css.map": "/emichon-react-port/static/css/main.00fa11f9.css.map",
+    "main.cea4fe61.js.map": "/emichon-react-port/static/js/main.cea4fe61.js.map",
+    "787.cabe94fe.chunk.js.map": "/emichon-react-port/static/js/787.cabe94fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00fa11f9.css",
+    "static/js/main.cea4fe61.js"
+  ]
+}

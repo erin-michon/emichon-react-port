@@ -9,7 +9,7 @@ import pass from "../../assets/images/3.gif"
 import note from "../../assets/images/4.gif"
 import jar from "../../assets/images/5.gif"
 import social from "../../assets/images/6.gif"
-import blog from "../../assets/images/7.gif"
+// import blog from "../../assets/images/7.gif"
 
 function ProjectList() {
 

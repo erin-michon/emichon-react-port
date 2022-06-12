@@ -5,7 +5,6 @@ import Footer from './components/Footer';
 import About from './components/About';
 import ContactForm from './components/Contact';
 import Portfolio from './components/Portfolio';
-import '.App.css';
 
 function App() {
 

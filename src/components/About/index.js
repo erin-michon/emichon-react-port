@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';
+import './style.css';
 import devpic from "../../assets/about/emichonpic.jpg"
 
 function About() {
